@@ -16,6 +16,7 @@ dolor sic amet
 	return f"Hello, {name}"
  ```
 <br>
+
 | field 1 | field2 | field 3 |
-|--------|--------|---------|
+| ------- | ------ | ------- |
 | val1 | val2 | val3 |
